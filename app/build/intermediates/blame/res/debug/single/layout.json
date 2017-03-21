@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\download2\\SlidingFragmentViewpager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\friend_fragment.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\download2\\SlidingFragmentViewpager\\app\\src\\main\\res\\layout\\friend_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\download2\\SlidingFragmentViewpager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_fragment.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\download2\\SlidingFragmentViewpager\\app\\src\\main\\res\\layout\\activity_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\download2\\SlidingFragmentViewpager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\job_fragment.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\download2\\SlidingFragmentViewpager\\app\\src\\main\\res\\layout\\job_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\download2\\SlidingFragmentViewpager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\left.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\download2\\SlidingFragmentViewpager\\app\\src\\main\\res\\layout\\left.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\download2\\SlidingFragmentViewpager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\download2\\SlidingFragmentViewpager\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]
